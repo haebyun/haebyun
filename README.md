@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=buynhg)](https://solved.ac/buynhg/)
+[![코드트리|실력진단-12200666](https://banner.codetree.ai/v1/banner/12200666)](https://www.codetree.ai/profiles/12200666)
 # 💪Skills
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
