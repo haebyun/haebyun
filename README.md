@@ -1,4 +1,4 @@
-### Welcome To Byun HaeKwang Profile! 😄
+## ✨ Welcome To Byun HaeKwang Profile! ✨
 <!--
 **haebyun/haebyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,19 +14,54 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### 좋은 구조의 가치 있는 서비스를 만들고자 합니다!
+#### AI API를 이용한 서비스 개발에도 관심이 있습니다
+
+* * * 
+
+## 🧩 Problem Solving 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=buynhg)](https://solved.ac/buynhg/)
 [![코드트리|실력진단-12200666](https://banner.codetree.ai/v1/banner/12200666)](https://www.codetree.ai/profiles/12200666)
 
-# 🏆
-* i-Pac(Inha Programming Ability Certification) 교내 알고리즘 대회 최우수상(2등)
+## 🏆 Awards
+* i-Pac(Inha Programming Ability Certification) 교내 알고리즘 대회 최우수상(2nd)
 
-# 💪Skills
-### Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599c.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+## ⌨️ Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+#### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JAVA-FF7800?style=flat-square&logo=&logoColor=white">
+</p>
 
+#### Frameworks & Other Systems 
+<p>
+  <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white">
+</p>
+
+#### AI API
+<p>
+  <img src="https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+</p>
+
+* * *
+
+## 👩‍💻 Projects
+
+|Period|Title|Description|
+|---|---|---|
+|2024.04 ~ 2024.06|[TriP](https://github.com/inha-2024-cloud-computing/triP-ai-call-service)|외로운 여행객 들을 위한 AI 기반 챗봇 + 이미지 서비스|
+
+* * * 
+
+## ⭐ Experiences 
+
+|Period|Description|
+|---|---|
+|2024.04 ~ 2024.06|Cloud Computing 반지원정대 BackEnd(Spring) 파트 엔지니어, 팀장|
