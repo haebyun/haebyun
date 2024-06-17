@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=buynhg)](https://solved.ac/buynhg/)
 [![코드트리|실력진단-12200666](https://banner.codetree.ai/v1/banner/12200666)](https://www.codetree.ai/profiles/12200666)
 
+알고리즘 해결 [코드모음](https://github.com/haebyun/problem_solving)
+
 ## 🏆 Awards
 * i-Pac(Inha Programming Ability Certification) 교내 알고리즘 대회 최우수상(2nd)
 
