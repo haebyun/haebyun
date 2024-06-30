@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 |Period|Title|Description|
 |---|---|---|
 |2024.04 ~ 2024.06|[TriP](https://github.com/inha-2024-cloud-computing/triP-ai-call-service)|외로운 여행객 들을 위한 AI 기반 챗봇 + 이미지 서비스|
-
+|2024.06~2024.06|[ReviewMaker](https://github.com/haebyun/reviewMaker)|리뷰 쓰기 귀찮은 소비자들을 위한 리뷰 자동 생성 서비스!|
 * * * 
 
 ## ⭐ Experiences 
