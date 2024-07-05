@@ -1,4 +1,4 @@
-## ✨ Welcome To Byun HaeKwang Profile! ✨
+
 <!--
 **haebyun/haebyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 좋은 구조의 가치 있고 유쾌한 서비스를 만들고자 합니다!
-#### AI API를 이용한 서비스 개발에도 관심이 있습니다
+#### 항상 성장하는 개발자가 되고자 합니다! ☘️
+#### 좋은 구조의 가치 있고 유쾌한 서비스를 만들기 위해 노력합니다! ✨
 
 * * * 
 
@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 
 * * *
 
-## 👩‍💻 Projects
+## 🧑🏻‍💻 Projects
 
 |Period|Title|Description|
 |---|---|---|
-|2024.04 ~ 2024.06|[TriP](https://github.com/inha-2024-cloud-computing/triP-ai-call-service)|외로운 여행객 들을 위한 AI 기반 챗봇 + 이미지 서비스|
-|2024.06 ~ 2024.06|[ReviewMaker](https://github.com/haebyun/reviewMaker)|리뷰 쓰기 귀찮은 소비자들을 위한 리뷰 자동 생성 서비스!|
+|2024.04 ~ 2024.06|[TriP](https://github.com/inha-2024-cloud-computing/triP-ai-call-service)|외로운 여행객 들을 위한 AI 기반 챗봇 + 이미지 서비스 with 스프링|
+|2024.06 ~ 2024.06|[ReviewMaker](https://github.com/haebyun/reviewMaker)|리뷰 쓰기 귀찮은 소비자들을 위한 리뷰 자동 생성 서비스! with 스프링|
 
 * * *
 
