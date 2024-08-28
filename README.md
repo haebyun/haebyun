@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 #### 항상 성장하는 개발자가 되고자 합니다! 🍀
-#### 좋은 구조의 가치 있고 유쾌한 서비스를 만들기 위해 노력합니다! ✨
+#### 가치 있고 유쾌한 좋은 구조의 서비스를 만들기 위해 노력합니다! ✨
 
 * * * 
 
@@ -44,12 +44,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white">
 </p>
 
 #### AI API
 <p>
-  <img src="https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Openai-412991?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white">
 </p>
 
 * * *
