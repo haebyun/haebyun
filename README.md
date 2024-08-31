@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 
 알고리즘 해결 [코드모음](https://github.com/haebyun/problem_solving)
 
-## 🏆 Awards
+## 🏆 Awards & Achievements
 * i-Pac(Inha Programming Ability Certification) 교내 알고리즘 대회 최우수상(2nd)
+* 스타트업-벤처 아카데미 전국 단위 해커톤(서퍼톤) 장려상(4rd)
+* Cloud Computing 수업 프로젝트 1st
 
 ## ⌨️ Skills
 
