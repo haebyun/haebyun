@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 |Period|Title|Description|
 |---|---|---|
 |2024.04 ~ 2024.06|[TriP](https://github.com/inha-2024-cloud-computing/triP-ai-call-service)|외로운 여행객 들을 위한 AI 기반 챗봇 + 이미지 서비스 with 스프링|
-|2024.06 ~ 2024.06|[ReviewMaker](https://github.com/haebyun/reviewMaker)|리뷰 쓰기 귀찮은 소비자들을 위한 리뷰 자동 생성 서비스! with 스프링|
+|2024.08 ~ 2024.08|[인덕맘즈](https://github.com/induk-moms/induk-moms-server-2)|내가 원하는 클린한 동아리를 해시태그 기반으로 리뷰를 찾아보고 가입하자!|
 
 * * *
 
@@ -73,3 +73,4 @@ Here are some ideas to get you started:
 |Period|Description|
 |---|---|
 |2024.04 ~ 2024.06|Cloud Computing 반지원정대 BackEnd(Spring) 파트 엔지니어, 팀장|
+|2024.08 ~ 2024.08|서퍼톤 인덕맘즈 BackEnd(Spring) 파트 엔지니어, 팀장|
