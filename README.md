@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 |Period|Title|Description|
 |---|---|---|
 |2024.04 ~ 2024.06|[TriP](https://github.com/inha-2024-cloud-computing/triP-ai-call-service)|외로운 여행객 들을 위한 AI 기반 챗봇 + 이미지 서비스 with 스프링|
-|2024.07 ~ |[GameProb](https://github.com/gameProb/gameVal_backend)|게임사의 유료 확률형 아이템을 게임사 대신해서 투명하게 돌려주는 서비스|
+|2024.07 ~ (보류)|[GameProb](https://github.com/gameProb/gameVal_backend)|게임사의 유료 확률형 아이템을 게임사 대신해서 투명하게 돌려주는 서비스|
 |2024.08 ~ 2024.08|[인덕맘즈](https://github.com/induk-moms/induk-moms-server-2)|내가 원하는 클린한 동아리를 해시태그 기반으로 리뷰를 찾아보고 가입하자!|
 |2024.08 ~ |[YOGER](https://github.com/inha-2024-capstone)|공동 구매를 쉽게 하는 세상을 꿈꾸다!|
 
